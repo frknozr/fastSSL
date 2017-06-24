@@ -11,7 +11,7 @@ FastSSL scans vulnerabilities listed below
 
 | Issue         | Information |
 | ------------- | ----------- |
-| Poodle        |     - [ ]   |
+| Poodle        |             |
 | Drown         |             |
 | Freak         |             |
 | Crime         |             |
@@ -20,6 +20,9 @@ FastSSL scans vulnerabilities listed below
 | Weak Cipher Suites        |             |
 | Weak Hash Algorithms        |             |
 | Weak Versions        |             |
+
+- [ ] Poodle
+
 
 ### Note
 The main purpose of FastSSL is to shorten penetration test duration with fast scan and easy reporting functions. In this way, pentester focuses other high priority vulnerabilities.
