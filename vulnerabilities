@@ -6,4 +6,13 @@ Beast
 Certificate Expiration 
 Weak Cipher Suites 
 Weak Hash Algorithms 
-Weak Versions 
+Weak Versions
+
+logjam
+heartbleed
+ccs injection
+renegotiation
+BREACH
+SWEET32
+LUCKY13
+RC4
