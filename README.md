@@ -31,8 +31,6 @@ FastSSL scans vulnerabilities listed below
 - [ ] Weak Hash Algorithms 
 - [ ] Weak Versions 
 
-<input type="checkbox" name="">Check me
-
 ### Note
 The main purpose of FastSSL is to shorten penetration test duration with fast scan and easy reporting functions. In this way, pentester focuses other high priority vulnerabilities.
 
