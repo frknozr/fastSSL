@@ -21,6 +21,12 @@ FastSSL scans vulnerabilities listed below
 | Weak Hash Algorithms        |             |
 | Weak Versions        |             |
 
+- [ ] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [ ] list syntax required (any unordered or ordered list supported)
+- [ ] this is a complete item
+- [ ] this is an incomplete item
+
+
 ### Note
 The main purpose of FastSSL is to shorten penetration test duration with fast scan and easy reporting functions. In this way, pentester focuses other high priority vulnerabilities.
 
