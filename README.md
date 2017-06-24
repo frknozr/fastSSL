@@ -11,7 +11,7 @@ FastSSL scans vulnerabilities listed below
 
 | Issue         | Information |
 | ------------- | ----------- |
-| Poodle        |             |
+| Poodle        |     - [ ]   |
 | Drown         |             |
 | Freak         |             |
 | Crime         |             |
